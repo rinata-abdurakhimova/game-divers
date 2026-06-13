@@ -7,20 +7,20 @@ Names below are reserved; `Planned` means the implementation may not exist yet.
 
 | Scene | Status | Owner | Responsibility |
 | --- | --- | --- | --- |
-| `scenes/main/Main.tscn` | Planned | Alina | Composition root and run lifecycle |
-| `scenes/world/Level_01.tscn` | Planned | Rinata | First complete playable level |
+| `scenes/main/Main.tscn` | Planned | Rinata | Composition root and run lifecycle |
+| `scenes/world/Level_01.tscn` | Planned | Alina | First complete playable level |
 | `scenes/actors/Player.tscn` | Planned | Polina | Player and core mechanic entry point |
-| `scenes/ui/HUD.tscn` | Planned | Alina | Run-state presentation |
-| `scenes/ui/GameOverScreen.tscn` | Planned | Alina | Outcome and restart flow |
+| `scenes/ui/HUD.tscn` | Planned | Rinata | Run-state presentation |
+| `scenes/ui/GameOverScreen.tscn` | Planned | Rinata | Outcome and restart flow |
 
 ## Autoloads
 
 | Name | Path | Owner | Contract |
 | --- | --- | --- | --- |
-| `GameEvents` | `scripts/autoload/GameEvents.gd` | Alina | Cross-owner signal hub only |
-| `GameState` | `scripts/autoload/GameState.gd` | Alina | Resettable run state and score/health/time values |
-| `AudioBus` | `scripts/autoload/AudioBus.gd` | Alina | Named music and SFX requests |
-| `SceneLoader` | `scripts/autoload/SceneLoader.gd` | Alina | Safe start, retry, and menu transitions |
+| `GameEvents` | `scripts/autoload/GameEvents.gd` | Rinata | Cross-owner signal hub only |
+| `GameState` | `scripts/autoload/GameState.gd` | Rinata | Resettable run state and score/health/time values |
+| `AudioBus` | `scripts/autoload/AudioBus.gd` | Rinata | Named music and SFX requests |
+| `SceneLoader` | `scripts/autoload/SceneLoader.gd` | Rinata | Safe start, retry, and menu transitions |
 
 Do not add another autoload without agreement from all three members.
 
@@ -90,4 +90,4 @@ Fallback/cut:
 ## Contract Change Rule
 
 The proposing owner updates this file. Every affected owner acknowledges the change before merge.
-Alina verifies the composition root and restart path after integration.
+Rinata verifies the composition root and restart path after integration.

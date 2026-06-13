@@ -8,7 +8,7 @@ description: Prepare and rehearse a shared three-person game-jam pitch, reliable
 Read `docs/PITCH.md`, `docs/SCOPE.md`, `OWNERSHIP.md`, and the playable build notes.
 
 1. Write a three-minute script with all three members speaking.
-2. Give Polina the hook and mechanic, Rinata the theme and content, and Alina the demo, reliability,
+2. Give Polina the hook and mechanic, Alina the theme and content, and Rinata the demo, reliability,
    and close.
 3. Make the core mechanic visible within 15 seconds.
 4. Use a deterministic demo route that includes feedback, the strongest theme moment, an outcome, and

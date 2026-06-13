@@ -14,7 +14,7 @@ Primary areas:
 Pitch segment: hook and core mechanic. Demo responsibility: explain controls and the satisfying player
 decision.
 
-## Rinata: World and Content
+## Alina: World and Content
 
 Primary areas:
 
@@ -27,7 +27,7 @@ Primary areas:
 Pitch segment: theme connection and content progression. Demo responsibility: guide the intended route
 and point out the strongest theme moment.
 
-## Alina: Experience and Integration
+## Rinata: Experience and Integration
 
 Primary areas:
 
@@ -65,7 +65,7 @@ affected owner.
 ## Scope Decisions
 
 Any member may propose a cut. A cut is accepted when two members agree, unless the current main build is
-broken; then Alina may temporarily disable the smallest unstable feature and document the decision.
+broken; then Rinata may temporarily disable the smallest unstable feature and document the decision.
 
 Adding a feature after scope lock requires:
 
@@ -81,8 +81,8 @@ Every member speaks. Aim for a three-minute presentation:
 | Time | Speaker | Content |
 | --- | --- | --- |
 | 0:00-0:40 | Polina | Hook, controls, core mechanic |
-| 0:40-1:20 | Rinata | Theme connection, progression, content |
-| 1:20-2:20 | Alina | Live demo, polish, reliability |
+| 0:40-1:20 | Alina | Theme connection, progression, content |
+| 1:20-2:20 | Rinata | Live demo, polish, reliability |
 | 2:20-3:00 | All | Strongest moment, lessons, close, questions |
 
 Rehearse speaker handoffs and the no-demo fallback. Any member must be able to finish the pitch if a

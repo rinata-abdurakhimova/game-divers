@@ -13,8 +13,8 @@
 | Time | Speaker | Beat |
 | --- | --- | --- |
 | 0:00-0:40 | Polina | Hook, goal, controls, core mechanic |
-| 0:40-1:20 | Rinata | Theme, world, progression |
-| 1:20-2:20 | Alina | Reliable demo route and polish |
+| 0:40-1:20 | Alina | Theme, world, progression |
+| 1:20-2:20 | Rinata | Reliable demo route and polish |
 | 2:20-3:00 | All | Strongest takeaway and close |
 
 ## Demo Route
@@ -29,4 +29,4 @@
 ## Fallback
 
 Prepare a 30-second verbal walkthrough and a short captured clip or screenshots. If the live build
-fails, explain the hook, theme, and strongest interaction while Alina restores the last known build.
+fails, explain the hook, theme, and strongest interaction while Rinata restores the last known build.

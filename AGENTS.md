@@ -26,8 +26,8 @@ Use the repository skill that matches the request:
 All three members write code and share product decisions, playtesting, and pitching.
 
 - Polina, Core Systems: player, core mechanic, rules, and gameplay state.
-- Rinata, World and Content: levels, enemies, obstacles, interactions, and content.
-- Alina, Experience and Integration: UI, audio, main scenes, autoloads, exports, and build health.
+- Alina, World and Content: levels, enemies, obstacles, interactions, and content.
+- Rinata, Experience and Integration: UI, audio, main scenes, autoloads, exports, and build health.
 
 These labels describe ownership, not rank. Shared pitching never gives one member unilateral product
 authority. Scope decisions use the rule in `OWNERSHIP.md`.
